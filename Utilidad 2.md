@@ -1,13 +1,5 @@
-## Overview
-
-These are a list of useful commands from [this](https://www.youtube.com/watch?v=Loav1kbA640) video on Youtube by Siraj Raval. 
-
-
 
 # Useful Git Commands
-
-## About it
-> Have you recently started using Git? This should give you the base commands you need to perform the most common actions in Git. If you find a command that is not here, or could be explained better, please don't hesitate in * [Contributing](#contributing). Cheers!
 
 ## Table of contents
 
