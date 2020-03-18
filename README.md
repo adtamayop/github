@@ -1,3 +1,5 @@
+Git for large files: https://help.github.com/es/github/managing-large-files/configuring-git-large-file-storage
+
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
